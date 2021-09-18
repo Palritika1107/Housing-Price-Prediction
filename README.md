@@ -1,5 +1,5 @@
 # Housing-Price-Prediction
-Prediction Price of houses based on given factors<br />
+Predicting Price of houses based on given factors<br />
 Steps:<br />
 1.Performed Exploratory Data Analysis<br />
 2.Did some data cleaning(handle missing values)<br />
