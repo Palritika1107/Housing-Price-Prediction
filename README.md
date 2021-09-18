@@ -1,7 +1,8 @@
 # Housing-Price-Prediction
 Prediction Price of houses based on given factors<br />
 Steps:<br />
-1.Perform Exploratory Data Analysis<br />
-2.Do some data cleaning(handle missing values)<br />
-3.take care of categorical variables<br />
-4.Try different regressor models<br />
+1.Performed Exploratory Data Analysis<br />
+2.Did some data cleaning(handle missing values)<br />
+3.Handled Outliers<br />
+4.took care of categorical variables<br />
+5.Tried different regressor models<br />
